@@ -58,7 +58,7 @@ const styles = StyleSheet.create({
     card: {
         flexDirection: 'row',
         flexWrap: 'wrap',
-        backgroundColor: '#FFF6D0',
+        backgroundColor: '#D8C9FF',
         margin: 5,
         borderWidth: 1,
         borderRadius: 5,
@@ -75,7 +75,8 @@ const styles = StyleSheet.create({
         color: 'black',
         height: 60,
         width: '98%',
-        marginHorizontal: 5,
+        padding:5,
+       
        
     }
 });

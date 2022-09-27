@@ -77,7 +77,7 @@ const styles = StyleSheet.create({
     },
     titStyle: {
         fontFamily:'Raleway-Medium',
-        fontSize: 35,
+        fontSize: 25,
         color: 'black',
         margin: 5,
     },
@@ -85,7 +85,7 @@ const styles = StyleSheet.create({
         fontFamily:'Raleway-Medium',
         color: 'purple',
         margin: 5,
-        fontSize: 20,
+        fontSize: 18,
     },
     detStyle: {
         color: 'black',
