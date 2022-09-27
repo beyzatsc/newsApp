@@ -93,8 +93,3 @@ const styles = StyleSheet.create({
         fontSize: 20,
     },
 })
-// 3.parti, third party
-// one sinyal
-// bildirim ayarları, bildirim alabilmek
-// firebase entegresi
-// google sd key bannerlar
